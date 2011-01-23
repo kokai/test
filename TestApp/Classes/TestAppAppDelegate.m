@@ -21,6 +21,7 @@
     // Override point for customization after application launch.
     
     [self.window makeKeyAndVisible];
+	window.backgroundColor = UIColor.blueColor;
     
     return YES;
 }
